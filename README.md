@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/aarvi18/LeetCode/tree/master/0013-roman-to-integer) |
+| [0258-add-digits](https://github.com/aarvi18/LeetCode/tree/master/0258-add-digits) |
 | [1013-fibonacci-number](https://github.com/aarvi18/LeetCode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -107,4 +108,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aarvi18/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/aarvi18/LeetCode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/aarvi18/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
