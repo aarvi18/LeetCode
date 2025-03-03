@@ -77,6 +77,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/aarvi18/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aarvi18/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0948-sort-an-array](https://github.com/aarvi18/LeetCode/tree/master/0948-sort-an-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/aarvi18/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/aarvi18/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aarvi18/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Divide and Conquer
@@ -121,6 +122,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/aarvi18/LeetCode/tree/master/0258-add-digits) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/aarvi18/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/aarvi18/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## Number Theory
 |  |
@@ -130,6 +132,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aarvi18/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/aarvi18/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/aarvi18/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aarvi18/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 <!---LeetCode Topics End-->
