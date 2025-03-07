@@ -31,6 +31,7 @@
 | [0258-add-digits](https://github.com/aarvi18/LeetCode/tree/master/0258-add-digits) |
 | [1013-fibonacci-number](https://github.com/aarvi18/LeetCode/tree/master/1013-fibonacci-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/aarvi18/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2610-closest-prime-numbers-in-range](https://github.com/aarvi18/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -129,6 +130,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/aarvi18/LeetCode/tree/master/0258-add-digits) |
+| [2610-closest-prime-numbers-in-range](https://github.com/aarvi18/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 ## Two Pointers
 |  |
 | ------- |
