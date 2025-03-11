@@ -52,6 +52,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/aarvi18/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/aarvi18/LeetCode/tree/master/0013-roman-to-integer) |
 | [1170-shortest-common-supersequence](https://github.com/aarvi18/LeetCode/tree/master/1170-shortest-common-supersequence) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/aarvi18/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/aarvi18/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/aarvi18/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/aarvi18/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -69,6 +70,7 @@
 | [0001-two-sum](https://github.com/aarvi18/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aarvi18/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/aarvi18/LeetCode/tree/master/0013-roman-to-integer) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/aarvi18/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aarvi18/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/aarvi18/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Linked List
@@ -119,6 +121,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aarvi18/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/aarvi18/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/aarvi18/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/aarvi18/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/aarvi18/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
