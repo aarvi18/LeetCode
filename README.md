@@ -84,6 +84,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/aarvi18/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aarvi18/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0948-sort-an-array](https://github.com/aarvi18/LeetCode/tree/master/0948-sort-an-array) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/aarvi18/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/aarvi18/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/aarvi18/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aarvi18/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -133,6 +134,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aarvi18/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aarvi18/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/aarvi18/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aarvi18/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/aarvi18/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Simulation
