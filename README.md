@@ -89,6 +89,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/aarvi18/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aarvi18/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aarvi18/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3430-count-days-without-meetings](https://github.com/aarvi18/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3483-alternating-groups-ii](https://github.com/aarvi18/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/aarvi18/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Divide and Conquer
@@ -100,6 +101,7 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/aarvi18/LeetCode/tree/master/0948-sort-an-array) |
+| [3430-count-days-without-meetings](https://github.com/aarvi18/LeetCode/tree/master/3430-count-days-without-meetings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
