@@ -53,6 +53,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aarvi18/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/aarvi18/LeetCode/tree/master/0013-roman-to-integer) |
+| [0768-partition-labels](https://github.com/aarvi18/LeetCode/tree/master/0768-partition-labels) |
 | [1170-shortest-common-supersequence](https://github.com/aarvi18/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aarvi18/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/aarvi18/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
@@ -61,6 +62,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/aarvi18/LeetCode/tree/master/0768-partition-labels) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/aarvi18/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [3001-apply-operations-to-maximize-score](https://github.com/aarvi18/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Enumeration
@@ -73,6 +75,7 @@
 | [0001-two-sum](https://github.com/aarvi18/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aarvi18/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/aarvi18/LeetCode/tree/master/0013-roman-to-integer) |
+| [0768-partition-labels](https://github.com/aarvi18/LeetCode/tree/master/0768-partition-labels) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aarvi18/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aarvi18/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/aarvi18/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -167,6 +170,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aarvi18/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0768-partition-labels](https://github.com/aarvi18/LeetCode/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/aarvi18/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/aarvi18/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aarvi18/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
