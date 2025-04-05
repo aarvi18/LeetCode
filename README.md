@@ -31,6 +31,7 @@
 | [0258-add-digits](https://github.com/aarvi18/LeetCode/tree/master/0258-add-digits) |
 | [1013-fibonacci-number](https://github.com/aarvi18/LeetCode/tree/master/1013-fibonacci-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/aarvi18/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/aarvi18/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/aarvi18/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/aarvi18/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3001-apply-operations-to-maximize-score](https://github.com/aarvi18/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -69,6 +70,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/aarvi18/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/aarvi18/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Hash Table
 |  |
@@ -94,6 +96,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aarvi18/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0948-sort-an-array](https://github.com/aarvi18/LeetCode/tree/master/0948-sort-an-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/aarvi18/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/aarvi18/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/aarvi18/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2262-solving-questions-with-brainpower](https://github.com/aarvi18/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/aarvi18/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -210,4 +213,16 @@
 |  |
 | ------- |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aarvi18/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/aarvi18/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/aarvi18/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/aarvi18/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
