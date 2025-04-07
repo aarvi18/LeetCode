@@ -38,6 +38,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/aarvi18/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [1013-fibonacci-number](https://github.com/aarvi18/LeetCode/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/aarvi18/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [2262-solving-questions-with-brainpower](https://github.com/aarvi18/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
@@ -94,6 +95,7 @@
 | [0001-two-sum](https://github.com/aarvi18/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/aarvi18/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aarvi18/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0416-partition-equal-subset-sum](https://github.com/aarvi18/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0948-sort-an-array](https://github.com/aarvi18/LeetCode/tree/master/0948-sort-an-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/aarvi18/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/aarvi18/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
