@@ -36,6 +36,7 @@
 | [2610-closest-prime-numbers-in-range](https://github.com/aarvi18/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2998-count-symmetric-integers](https://github.com/aarvi18/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/aarvi18/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3548-find-the-count-of-good-integers](https://github.com/aarvi18/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/aarvi18/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/aarvi18/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2998-count-symmetric-integers](https://github.com/aarvi18/LeetCode/tree/master/2998-count-symmetric-integers) |
+| [3548-find-the-count-of-good-integers](https://github.com/aarvi18/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +88,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aarvi18/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aarvi18/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/aarvi18/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3548-find-the-count-of-good-integers](https://github.com/aarvi18/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/aarvi18/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Linked List
 |  |
@@ -229,4 +232,5 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/aarvi18/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3548-find-the-count-of-good-integers](https://github.com/aarvi18/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 <!---LeetCode Topics End-->
