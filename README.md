@@ -41,6 +41,7 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/aarvi18/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0806-domino-and-tromino-tiling](https://github.com/aarvi18/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [1013-fibonacci-number](https://github.com/aarvi18/LeetCode/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/aarvi18/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [2262-solving-questions-with-brainpower](https://github.com/aarvi18/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
