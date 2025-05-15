@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/aarvi18/LeetCode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/aarvi18/LeetCode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/aarvi18/LeetCode/tree/master/0258-add-digits) |
 | [1013-fibonacci-number](https://github.com/aarvi18/LeetCode/tree/master/1013-fibonacci-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/aarvi18/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -102,6 +103,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/aarvi18/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aarvi18/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/aarvi18/LeetCode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/aarvi18/LeetCode/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aarvi18/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0416-partition-equal-subset-sum](https://github.com/aarvi18/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0948-sort-an-array](https://github.com/aarvi18/LeetCode/tree/master/0948-sort-an-array) |
