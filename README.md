@@ -60,6 +60,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aarvi18/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/aarvi18/LeetCode/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/aarvi18/LeetCode/tree/master/0242-valid-anagram) |
 | [0768-partition-labels](https://github.com/aarvi18/LeetCode/tree/master/0768-partition-labels) |
 | [1170-shortest-common-supersequence](https://github.com/aarvi18/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aarvi18/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -85,6 +86,7 @@
 | [0001-two-sum](https://github.com/aarvi18/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aarvi18/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/aarvi18/LeetCode/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/aarvi18/LeetCode/tree/master/0242-valid-anagram) |
 | [0768-partition-labels](https://github.com/aarvi18/LeetCode/tree/master/0768-partition-labels) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aarvi18/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aarvi18/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -132,6 +134,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/aarvi18/LeetCode/tree/master/0242-valid-anagram) |
 | [0948-sort-an-array](https://github.com/aarvi18/LeetCode/tree/master/0948-sort-an-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/aarvi18/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/aarvi18/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
