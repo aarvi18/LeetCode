@@ -37,6 +37,7 @@
 | [2610-closest-prime-numbers-in-range](https://github.com/aarvi18/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2998-count-symmetric-integers](https://github.com/aarvi18/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/aarvi18/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3201-distribute-candies-among-children-ii](https://github.com/aarvi18/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/aarvi18/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 ## Dynamic Programming
 |  |
@@ -79,6 +80,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/aarvi18/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/aarvi18/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2998-count-symmetric-integers](https://github.com/aarvi18/LeetCode/tree/master/2998-count-symmetric-integers) |
+| [3201-distribute-candies-among-children-ii](https://github.com/aarvi18/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/aarvi18/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 ## Hash Table
 |  |
@@ -252,6 +254,7 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/aarvi18/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3201-distribute-candies-among-children-ii](https://github.com/aarvi18/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/aarvi18/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 ## Graph
 |  |
