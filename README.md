@@ -47,6 +47,7 @@
 | [1013-fibonacci-number](https://github.com/aarvi18/LeetCode/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/aarvi18/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [2262-solving-questions-with-brainpower](https://github.com/aarvi18/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/aarvi18/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Recursion
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aarvi18/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/aarvi18/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/aarvi18/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/aarvi18/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/aarvi18/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Greedy
 |  |
@@ -253,6 +255,7 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/aarvi18/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/aarvi18/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Combinatorics
 |  |
 | ------- |
@@ -267,4 +270,8 @@
 |  |
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/aarvi18/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+## Bitmask
+|  |
+| ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/aarvi18/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 <!---LeetCode Topics End-->
