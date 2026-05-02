@@ -121,6 +121,7 @@
 | [0217-contains-duplicate](https://github.com/aarvi18/LeetCode/tree/master/0217-contains-duplicate) |
 | [0416-partition-equal-subset-sum](https://github.com/aarvi18/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0948-sort-an-array](https://github.com/aarvi18/LeetCode/tree/master/0948-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/aarvi18/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/aarvi18/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/aarvi18/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/aarvi18/LeetCode/tree/master/2048-build-array-from-permutation) |
@@ -150,6 +151,7 @@
 | [0217-contains-duplicate](https://github.com/aarvi18/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aarvi18/LeetCode/tree/master/0242-valid-anagram) |
 | [0948-sort-an-array](https://github.com/aarvi18/LeetCode/tree/master/0948-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/aarvi18/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/aarvi18/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/aarvi18/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/aarvi18/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -218,6 +220,7 @@
 | [0125-valid-palindrome](https://github.com/aarvi18/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aarvi18/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0768-partition-labels](https://github.com/aarvi18/LeetCode/tree/master/0768-partition-labels) |
+| [0977-squares-of-a-sorted-array](https://github.com/aarvi18/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/aarvi18/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/aarvi18/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aarvi18/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
