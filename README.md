@@ -113,6 +113,7 @@
 | [0001-two-sum](https://github.com/aarvi18/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/aarvi18/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/aarvi18/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/aarvi18/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aarvi18/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/aarvi18/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/aarvi18/LeetCode/tree/master/0066-plus-one) |
@@ -148,6 +149,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aarvi18/LeetCode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/aarvi18/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aarvi18/LeetCode/tree/master/0242-valid-anagram) |
 | [0948-sort-an-array](https://github.com/aarvi18/LeetCode/tree/master/0948-sort-an-array) |
@@ -215,6 +217,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aarvi18/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/aarvi18/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/aarvi18/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aarvi18/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aarvi18/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/aarvi18/LeetCode/tree/master/0125-valid-palindrome) |
