@@ -64,6 +64,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/aarvi18/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/aarvi18/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/aarvi18/LeetCode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/aarvi18/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/aarvi18/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/aarvi18/LeetCode/tree/master/0242-valid-anagram) |
 | [0768-partition-labels](https://github.com/aarvi18/LeetCode/tree/master/0768-partition-labels) |
@@ -94,6 +95,7 @@
 | [0001-two-sum](https://github.com/aarvi18/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aarvi18/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/aarvi18/LeetCode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/aarvi18/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/aarvi18/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aarvi18/LeetCode/tree/master/0242-valid-anagram) |
 | [0768-partition-labels](https://github.com/aarvi18/LeetCode/tree/master/0768-partition-labels) |
@@ -116,6 +118,7 @@
 | [0015-3sum](https://github.com/aarvi18/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aarvi18/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/aarvi18/LeetCode/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/aarvi18/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/aarvi18/LeetCode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aarvi18/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aarvi18/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -151,6 +154,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/aarvi18/LeetCode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/aarvi18/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/aarvi18/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aarvi18/LeetCode/tree/master/0242-valid-anagram) |
 | [0948-sort-an-array](https://github.com/aarvi18/LeetCode/tree/master/0948-sort-an-array) |
